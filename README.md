@@ -1,6 +1,11 @@
 
 # ps
 
+This is a fork that adopts the ps package to Renjin by replacing the C code 
+(which the gcc bridge cannot fully make sense of) with Java.
+
+Below is the original content:
+
 > List, Query, Manipulate System Processes
 
 <!-- badges: start -->
